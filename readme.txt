@@ -1,4 +1,4 @@
-Fork form:https://github.com/BDisp/unlocker
+Forked form:https://github.com/BDisp/unlocker
 macOS Unlocker V3.0 for VMware Workstation
 ==========================================
 
